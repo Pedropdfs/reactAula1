@@ -1,0 +1,19 @@
+.bottom {
+    background-color: #6278F7;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 24px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 40px 0 0 0;
+}
+.bottom:hover {
+    background-color: #6278F7;
+    color: #95FFD4;
+}

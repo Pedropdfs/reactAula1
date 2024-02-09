@@ -1,0 +1,32 @@
+.text-component {
+    margin: 24px 0;
+}
+
+.text-component label {
+    display: block;
+    margin-bottom: 8px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.text-component input {
+    background-color: #fff;
+    box-shadow: 10px 10px 30px 0px #0000000F;
+    width: 100%;
+    border: none;
+    letter-spacing: 0em;
+    text-align: left;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    box-sizing: border-box;
+}
